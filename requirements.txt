@@ -15,7 +15,7 @@ idna-ssl==1.1.0
 incremental==17.5.0
 Js2Py==0.70
 jsonpath==0.82
-lxml==4.5.1
+lxml==4.9.1
 multidict==4.7.6
 parsel==1.6.0
 Protego==0.1.16
